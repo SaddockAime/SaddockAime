@@ -47,8 +47,8 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating i
 
 ## 📈 GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=saddockAime&show_icons=true&theme=dracula" height="200" />
-  <img src="https://streak-stats.demolab.com/?user=saddockAime&theme=dracula" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saddockAime&show_icons=true&theme=merko" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saddockAime&theme=radical" alt="GitHub Streak Stats" height="200" />
 </div>
 
 
