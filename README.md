@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating i
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating i
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=saddockAime&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saddockAime&theme=radical" alt="GitHub Streak Stats" />
 </p>
