@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Saddock Kabandana!
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to creating impactful solutions. Here's a little about me:
+I'm a passionate developer dedicated to creating impactful solutions. Here's a little about me:
 
 ---
 
@@ -44,13 +44,13 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating i
 </p>
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 <div align="left" style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=saddockAime&show_icons=true&theme=merko" height="200" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saddockAime&theme=radical" alt="GitHub Streak Stats" height="200" width="400" />
 </div>
-
+-->
 
 ---
 
@@ -70,9 +70,9 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to creating i
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aimegetz@gmail.com)
 
 ---
-
+<!--
 ⭐️ From [SaddockAime](https://github.com/saddockAime)
-
+-->
 
 <!--
 **SaddockAime/SaddockAime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
