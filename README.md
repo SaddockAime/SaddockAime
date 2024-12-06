@@ -43,7 +43,6 @@ I'm a passionate developer dedicated to creating impactful solutions. Here's a l
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
----
 <!--
 ## 📈 GitHub Stats
 <div align="left" style="display: flex; flex-direction: row;">
@@ -51,8 +50,6 @@ I'm a passionate developer dedicated to creating impactful solutions. Here's a l
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saddockAime&theme=radical" alt="GitHub Streak Stats" height="200" width="400" />
 </div>
 -->
-
----
 
 <!--
 ## 🚀 Featured Projects
@@ -69,7 +66,7 @@ I'm a passionate developer dedicated to creating impactful solutions. Here's a l
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://aime-getz-portfolio.pages.dev/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aimegetz@gmail.com)
 
----
+
 <!--
 ⭐️ From [SaddockAime](https://github.com/saddockAime)
 -->
