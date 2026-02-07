@@ -43,8 +43,8 @@ I'm a passionate developer dedicated to creating impactful solutions. Here's a l
 
 ## 📈 GitHub Stats
 <div align="left" style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=saddockAime&show_icons=true&theme=merko" height="200" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saddockAime&show_icons=true&theme=merko" height="200" width="400" />
+  <img src="https://github-readme-stats-aiubbrb1z-saddockaimes-projects.vercel.app/api?username=saddockAime&show_icons=true&theme=merko" height="200" width="400" />
+  <img src="https://github-readme-stats-aiubbrb1z-saddockaimes-projects.vercel.app/api/top-langs?username=saddockAime&show_icons=true&theme=merko" height="200" width="400" />
 </div>
 
 
