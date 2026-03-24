@@ -3,10 +3,10 @@
 I'm a passionate developer dedicated to creating impactful solutions. Here's a little about me:
 
 ## 🌟 About Me
-- 🔭 Currently working on: Building scalable web applications and enhancing admin dashboards.  
-- 🌱 Learning: Advanced React, Apollo Server, and exploring cutting-edge backend technologies.  
+- 🔭 Currently working on: Building, deploying, and maintaining production-grade web applications with automated CI/CD pipelines.  
+- 🌱 Learning: Expanding knowledge in system design, API architecture, and modern DevOps practices.  
 - 🤔 Exploring: Cloud computing, DevOps, and emerging technologies like AI and blockchain.  
-- 💬 Ask me about: React development, real-time systems, and database optimization.  
+- 💬 Ask me about: Web application engineering, real-time systems, and database optimization.  
 - ⚡ Fun fact: I’m passionate about combining software and hardware knowledge to solve real-world problems!  
 
 ## 🛠️ Technologies & Languages
@@ -21,11 +21,13 @@ I'm a passionate developer dedicated to creating impactful solutions. Here's a l
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -34,6 +36,7 @@ I'm a passionate developer dedicated to creating impactful solutions. Here's a l
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM" />
@@ -44,7 +47,7 @@ I'm a passionate developer dedicated to creating impactful solutions. Here's a l
 ## 📈 GitHub Stats
 <div align="left" style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats-aiubbrb1z-saddockaimes-projects.vercel.app/api?username=saddockAime&show_icons=true&theme=merko" height="200" width="400" />
-  <img src="https://github-readme-stats-aiubbrb1z-saddockaimes-projects.vercel.app/api/top-langs?username=saddockAime&show_icons=true&theme=merko" height="200" width="400" />
+  <img src="https://github-readme-stats-aiubbrb1z-saddockaimes-projects.vercel.app/api/top-langs?username=saddockAime&show_icons=true&theme=merko&langs_count=20&layout=compact" height="200" width="400" />
 </div>
 
 
